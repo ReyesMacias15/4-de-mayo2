@@ -1,0 +1,23 @@
+super administrador
+Registrarse
+iniciar sesion
+suspender empresas
+eliminar empresas
+agregar tipos sala
+
+administrador 
+Registrarse
+iniciar sesion
+agregar sala
+eliminar sala
+editar sala
+
+
+cliente
+ Registrarse
+iniciar sesion
+buscar
+reservar 
+pagar
+cancelar reserva
+opcional ( ver historial de reserva)
